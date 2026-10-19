@@ -1,0 +1,82 @@
+milestone,experiment,controller,metric,value
+M12,ablation_clean,A: P&O,eta_full,0.9930308514106124
+M12,ablation_clean,A: P&O,activity_index,1.0
+M12,ablation_clean,B: VSS-P&O,eta_full,0.9970307049379231
+M12,ablation_clean,B: VSS-P&O,activity_index,1.0
+M12,ablation_clean,C: RLS-VSS,eta_full,0.987145513179932
+M12,ablation_clean,C: RLS-VSS,activity_index,1.0
+M12,ablation_clean,D: HOLD/TRACK,eta_full,0.9847140692663003
+M12,ablation_clean,D: HOLD/TRACK,activity_index,0.104
+M12,ablation_clean,E: Full controller,eta_full,0.9847140692663003
+M12,ablation_clean,E: Full controller,activity_index,0.104
+M12,ablation_noisy,A: P&O,eta_full,0.9710011417094215
+M12,ablation_noisy,A: P&O,activity_index,1.0
+M12,ablation_noisy,B: VSS-P&O,eta_full,0.9804397610501334
+M12,ablation_noisy,B: VSS-P&O,activity_index,1.0
+M12,ablation_noisy,C: RLS-VSS,eta_full,0.9717307842423678
+M12,ablation_noisy,C: RLS-VSS,activity_index,1.0
+M12,ablation_noisy,D: HOLD/TRACK,eta_full,0.9717307842423678
+M12,ablation_noisy,D: HOLD/TRACK,activity_index,1.0
+M12,ablation_noisy,E: Full controller,eta_full,0.9717307842423678
+M12,ablation_noisy,E: Full controller,activity_index,1.0
+M13,E02,A: P&O,eta_full,0.9910260254039631
+M13,E02,A: P&O,activity_index,1.0
+M13,E02,B: VSS-P&O,eta_full,0.9960302142395776
+M13,E02,B: VSS-P&O,activity_index,1.0
+M13,E02,C: RLS-VSS,eta_full,0.9819852688520123
+M13,E02,C: RLS-VSS,activity_index,1.0
+M13,E02,D: HOLD/TRACK,eta_full,0.9789976782549359
+M13,E02,D: HOLD/TRACK,activity_index,0.182
+M13,E02,E: Full controller,eta_full,0.9789976782549359
+M13,E02,E: Full controller,activity_index,0.182
+M13,E03,A: P&O,eta_full,0.9254330926219827
+M13,E03,A: P&O,activity_index,1.0
+M13,E03,B: VSS-P&O,eta_full,0.9284358630430795
+M13,E03,B: VSS-P&O,activity_index,1.0
+M13,E03,C: RLS-VSS,eta_full,0.8480945202948801
+M13,E03,C: RLS-VSS,activity_index,1.0
+M13,E03,D: HOLD/TRACK,eta_full,0.8018737077345601
+M13,E03,D: HOLD/TRACK,activity_index,0.696
+M13,E03,E: Full controller,eta_full,0.8018737077345601
+M13,E03,E: Full controller,activity_index,0.696
+M13,E04,A: P&O,eta_full,0.993194339787875
+M13,E04,A: P&O,activity_index,1.0
+M13,E04,B: VSS-P&O,eta_full,0.9969056514368116
+M13,E04,B: VSS-P&O,activity_index,1.0
+M13,E04,C: RLS-VSS,eta_full,0.9865812596207952
+M13,E04,C: RLS-VSS,activity_index,1.0
+M13,E04,D: HOLD/TRACK,eta_full,0.9842281272460021
+M13,E04,D: HOLD/TRACK,activity_index,0.124
+M13,E04,E: Full controller,eta_full,0.9842281272460021
+M13,E04,E: Full controller,activity_index,0.124
+M13,E15,A: P&O,eta_full,0.990928546416252
+M13,E15,A: P&O,activity_index,1.0
+M13,E15,B: VSS-P&O,eta_full,0.9959841205351622
+M13,E15,B: VSS-P&O,activity_index,1.0
+M13,E15,C: RLS-VSS,eta_full,0.9816397081422308
+M13,E15,C: RLS-VSS,activity_index,1.0
+M13,E15,D: HOLD/TRACK,eta_full,0.9773430942930516
+M13,E15,D: HOLD/TRACK,activity_index,0.174
+M13,E15,E: Full controller,eta_full,0.9773430942930516
+M13,E15,E: Full controller,activity_index,0.174
+M15,monte_carlo_A,A: P&O,eta_full_mean,0.9914426972883117
+M15,monte_carlo_A,A: P&O,eta_full_std,0.008211989519519132
+M15,monte_carlo_A,A: P&O,activity_index_mean,1.0
+M15,monte_carlo_A,A: P&O,activity_index_std,0.0
+M15,monte_carlo_A,B: VSS-P&O,eta_full_mean,0.9942963421037665
+M15,monte_carlo_A,B: VSS-P&O,eta_full_std,0.008048706544222581
+M15,monte_carlo_A,B: VSS-P&O,activity_index_mean,1.0
+M15,monte_carlo_A,B: VSS-P&O,activity_index_std,0.0
+M15,monte_carlo_A,C: RLS-VSS,eta_full_mean,0.9710673843641445
+M15,monte_carlo_A,C: RLS-VSS,eta_full_std,0.03930793500928023
+M15,monte_carlo_A,C: RLS-VSS,activity_index_mean,1.0
+M15,monte_carlo_A,C: RLS-VSS,activity_index_std,0.0
+M15,monte_carlo_A,D: HOLD/TRACK,eta_full_mean,0.9684525577287391
+M15,monte_carlo_A,D: HOLD/TRACK,eta_full_std,0.054618915247900995
+M15,monte_carlo_A,D: HOLD/TRACK,activity_index_mean,0.19116666666666668
+M15,monte_carlo_A,D: HOLD/TRACK,activity_index_std,0.10120164140083016
+M15,monte_carlo_A,E: Full controller,eta_full_mean,0.9684525577287391
+M15,monte_carlo_A,E: Full controller,eta_full_std,0.054618915247900995
+M15,monte_carlo_A,E: Full controller,activity_index_mean,0.19116666666666668
+M15,monte_carlo_A,E: Full controller,activity_index_std,0.10120164140083016
+M15,monte_carlo_B_shading,E: Full controller,local_trap_rate,0.52
